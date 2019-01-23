@@ -48,7 +48,11 @@ Your branch is up to date with 'origin/master'.
 
 nothing to commit, working tree clean    answer9
 
+nothing change answer 10
 
+nothing change answer 11
+
+yes answer 12
 
 
 
